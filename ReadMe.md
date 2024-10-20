@@ -26,7 +26,6 @@
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
@@ -36,7 +35,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Hasindu04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</table>
 
 ---
 
