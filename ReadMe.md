@@ -18,12 +18,6 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center"><a href="https://linkedin.com/in/hasindu bimalka" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="hasindu bimalka" height="30" width="40" /></a> <a href="https://fb.com/hasindu bimalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasindu bimalka" height="30" width="40" /></a> <a href="https://instagram.com/hasindu_21" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="hasindu_21" height="30" width="40" /></a></p>
-
----
-
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -41,7 +35,11 @@
 </td>
 </table>
 
-[![](https://visitcount.itsvg.in/api?id=Hasindu04&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center"><a href="https://linkedin.com/in/hasindu bimalka" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="hasindu bimalka" height="30" width="40" /></a> <a href="https://fb.com/hasindu bimalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasindu bimalka" height="30" width="40" /></a> <a href="https://instagram.com/hasindu_21" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="hasindu_21" height="30" width="40" /></a></p>
 
 ---
 
