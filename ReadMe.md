@@ -5,7 +5,11 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasassri2002&label=Profile%20views&color=0e75b6&style=flat" alt="yasassri2002" /> </p>
+<p align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Hasindu04&icon=0&color=0)](https://visitcount.itsvg.in) 
+
+</p>
 
 
 - 🌱 I’m currently learning **Spring Boot and Angular**
