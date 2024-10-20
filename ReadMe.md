@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Hasindu Bimalka</h1>
 <h3 align="center">A passionate Undergraduate Software Engineer.</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasassri2002&label=Profile%20views&color=0e75b6&style=flat" alt="yasassri2002" /> </p>
+
 - 🌱 I’m currently learning **Spring Boot and Angular**
 
 - 👨‍💻 All of my projects are available at [https://hasindu04.github.io/my-main-portfolio-website/](https://hasindu04.github.io/my-main-portfolio-website/)
