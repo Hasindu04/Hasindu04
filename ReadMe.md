@@ -39,7 +39,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center"><a href="https://www.linkedin.com/in/hasindu-bimalka-6b7766292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bij%2F1Mct9Q0manLLHE7eqzQ%3D%3D" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="hasindu bimalka" height="50" width="50" /></a> <a href="https://instagram.com/hasindu_21" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="hasindu_21" height="50" width="50" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/hasindu-bimalka-6b7766292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bij%2F1Mct9Q0manLLHE7eqzQ%3D%3D" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="hasindu bimalka" height="40" width="40" /></a> <a href="https://instagram.com/hasindu_21" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="hasindu_21" height="40" width="40" /></a> <a href="https://twitter.com/hasindu_hb" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="hasindu_hb" height="40" width="40" /></a> <a href="https://www.facebook.com/hasindu.bimalka.9?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="40" width="40" /></a></p>
 
 ---
 
