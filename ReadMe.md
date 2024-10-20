@@ -24,13 +24,13 @@
 <tr border="none">
 <td width="50%" align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Hasindu04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hasindu04&theme=dark&hide_border=false)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasindu04&show_icons=true&locale=en&layout=compact" alt="hasindu04" /></p><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasindu04&show_icons=true&locale=en" alt="hasindu04" /></p><br/>
 
 </td>
 <td width="50%" align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasindu04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasindu04&" alt="hasindu04" /></p>
 
 </td>
 </table>
