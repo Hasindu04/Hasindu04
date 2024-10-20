@@ -24,7 +24,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasindu04&show_icons=true&locale=en&layout=compact" alt="hasindu04" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasindu04&show_icons=true&locale=en&layout=compact" alt="hasindu04" /></p><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasindu04&show_icons=true&locale=en" alt="hasindu04" /></p><br/>
 
 </td>
