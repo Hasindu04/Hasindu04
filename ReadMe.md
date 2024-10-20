@@ -1,3 +1,5 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
 <h1 align="center">Hi 👋, I'm Hasindu Bimalka</h1>
 <h3 align="center">A passionate Undergraduate Software Engineer.</h3>
 
@@ -8,6 +10,22 @@
 - 📫 How to reach me **hasindubimalka74@gmail.com**
 
 - ⚡ Fun fact **I think I like watching movies and playing pc games.**
+
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Hasindu04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hasindu04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasindu04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hasindu04&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
